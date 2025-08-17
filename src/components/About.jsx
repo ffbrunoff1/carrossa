@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Target, Users, Shield, Award, CheckCircle, TrendingUp, Globe, Clock } from 'lucide-react'
+import { Target, Users, Shield, Award, CheckCircle, TrendingUp, Globe, Clock } from 'lucide-react';
 
 export default function About() {
   const values = [

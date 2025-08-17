@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Road, MapPin, Phone, Mail, Clock, ArrowUp } from 'lucide-react'
+import { Road, MapPin, Phone, Mail, Clock, ArrowUp } from 'lucide-react';
 
 export default function Footer() {
   const scrollToTop = () => {

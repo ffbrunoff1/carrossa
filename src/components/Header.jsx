@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import { Menu, X, Road, Phone, Mail } from 'lucide-react'
+import { Menu, X, Road, Phone, Mail } from 'lucide-react';
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
